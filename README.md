@@ -1,1 +1,1 @@
-# Belajar-Bot
+# BelajarBot
